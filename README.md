@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Khadija25azam
+- 👋 Hi, I’m @Areeba
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning BsCs
 - 💞️ I’m looking to collaborate on Projects with different companies
-- 📫 How to reach me send email on khadija25azam@gmail.com
+- 📫 How to reach me send email on Areeba@gmail.com
   
 
 <!---
